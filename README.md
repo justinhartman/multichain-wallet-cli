@@ -268,7 +268,7 @@ The count will determine how many accounts are generated.
 
 # Authors
 
-- [Justin Hartman](https://justhart.com) (@justinhartman)
-- [Abhijay Rajvansh](https://abhijayrajvansh.com) (@abhijayrajvansh) - for his original work on the [Solana Wallet Generator](https://github.com/abhijayrajvansh/solana-wallet-generator)
+- [Justin Hartman](https://justhart.com) ([@justinhartman](https://github.com/justinhartman))
+- [Abhijay Rajvansh](https://abhijayrajvansh.com) ([@abhijayrajvansh](https://github.com/abhijayrajvansh)) - for his original work on the [Solana Wallet Generator](https://github.com/abhijayrajvansh/solana-wallet-generator)
 
 ---
