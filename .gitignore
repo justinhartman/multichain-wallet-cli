@@ -1,5 +1,6 @@
 # Output files
 *.json
+!package.json
 
 # Logs
 logs
